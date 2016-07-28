@@ -17,3 +17,4 @@ Protocol for generating an ITOL tree that shows which leafs have a given seq mot
 8 - copy and paste output file contents from step 7 (FORITOL) into itol template file (http://itol.embl.de/help/dataset_color_strip_template.txt)
 9 - open all_data in excel and copy and past the first column (taxids) to itol to make the tree
 10 - drag the updated template file onto the tree
+
